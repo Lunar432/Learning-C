@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//use of strcmp
+
 int main()
 {
     char str1[50],str2[50];
