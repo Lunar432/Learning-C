@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//use of loops for strcpy
+
 int main()
 {   
     int i;
