@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//structure use
+//structure use for book informaton
 
 struct book{
  char nam[20];
