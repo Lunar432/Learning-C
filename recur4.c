@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//sum of natural numbers using recursion
+
 int recurse(int n,int sum)
 {
     if(n!=0)
