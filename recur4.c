@@ -18,7 +18,7 @@ int main()
     printf("Enter positive number: ");
     scanf("%d",&n);
     result= recurse(n,sum);
-    printf("%d",result);
+    printf("Sum of natural numbers until %d is: %d",n,result);
     return 0;
 
 }
