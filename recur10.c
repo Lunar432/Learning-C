@@ -14,10 +14,10 @@ void factorial(int num,int facto,int i)
 
 int main()
 {
-    int num,i,facto=1;
+    int num,facto=1;
     printf("Enter number: ");
     scanf("%d",&num);
-    i=num;
+    int i=num;
     factorial(num,facto,i);
     return 0;
 }
