@@ -24,7 +24,7 @@ int main()
     printf("\nElements of copied array: \n");
     for(i=0;i<5;i++)
     {
-        printf("%d",arr2[i]); 
+        printf("%d ",arr2[i]); 
     }
     return 0;
 }
